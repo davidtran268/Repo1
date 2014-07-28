@@ -1,2 +1,3 @@
 import math
-Print "Hello World"
+print "Hello World"
+print "Hello world 2"
